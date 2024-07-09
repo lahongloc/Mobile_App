@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Xin chao!</string>
+    <string name="app_info">HelloWorldApp</string>
+    <string name="app_signin">Đăng nhập</string>
+    <string name="app_siggin_label">Đăng nhập tài khoản</string>
+    <string name="app_username">Nhập tên người dùng</string>
+    <string name="app_pasword">Nhập mật khẩu</string>
+    <string name="app_true">TRUE</string>
+    <string name="APP_false">FALSE</string>
+    <string name="app_signup">Đăng ký</string>
+    <string name="app_user_name">Nhập username...</string>
+    <string name="app_create">Create</string>
+</resources>
